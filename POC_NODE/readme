@@ -1,0 +1,28 @@
+
+This project is developed using visual studio code API's tested on Postman 
+and database used is mongoDb at local server
+
+RUN all command from POC_NODE directory
+
+1. FIRST Install all packages required to run project type given below commands:
+
+npm init
+
+//click enter to load everything in package.json file then run below command for node_modules 
+
+npm install axios --save
+
+
+
+
+2. to run the complete project use:
+
+npm start
+
+3. to run in development mode use dev script:
+
+npm run dev
+
+4. to run test suite run
+
+npm test
